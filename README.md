@@ -22,8 +22,14 @@ A lightning-fast, pure Python IP scanner built for CDN detection. No ping depend
 
 ```bash
 # Clone the repo
-git clone https://github.com/shirOkhorshid/cdn-ip-scanner.git
-cd cdn-ip-scanner
+git clone https://github.com/0xnightraid/shirokhorshid-scanner.git
+cd shirokhorshid-scanner
 
 # Install requirements
+### Step 1: Open CMD/Terminal in the scanner folder
+**Windows:**
+
+### Step 2: Install requirements
+
+```bash
 pip install -r requirements.txt
