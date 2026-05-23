@@ -26,9 +26,9 @@ git clone https://github.com/0xnightraid/shirokhorshid-scanner.git
 cd shirokhorshid-scanner
 
 # Install requirements
-### Step 1: Open CMD/Terminal in the scanner folder
+## Step 1: Open CMD/Terminal in the scanner folder
 
-### Step 2: Install requirements
+## Step 2: Install requirements
 pip install -r requirements.txt
 ```
 
@@ -47,9 +47,10 @@ pip install -r requirements.txt
 ## 🚀 Usage
 
 ### Option 1: One-Click (Windows)
-Double-click scan.cmd
+```bash
+Double-click `scan.cmd`
 It handles everything
-
+```
 ### Option 2: Command Line
 ```bash
 python cdn-scanner.py -i ip_list.txt
@@ -60,7 +61,7 @@ python cdn-scanner.py -i input.txt -o output.txt -t 2.0 -c 500
 ```
 ### See All Options
 ```bash
-python scanner.py --help
+python cdn-scanner.py --help
 ```
 
 ---
