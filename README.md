@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 
 ## 📝 Prepare IP List
-# Open ip_list.txt and add your IPs. Supports these formats:
+### Open ip_list.txt and add your IPs. Supports these formats:
 ```bash
 1.1.1.1                        # Single IP
 8.8.8.8                        # Another single IP
@@ -46,25 +46,25 @@ pip install -r requirements.txt
 
 ## 🚀 Usage
 
-# Option 1: One-Click (Windows)
+### Option 1: One-Click (Windows)
 Double-click scan.cmd
 It handles everything
 
-# Option 2: Command Line
+### Option 2: Command Line
 ```bash
 python cdn-scanner.py -i ip_list.txt
 ````
-# Custom:
+### Custom:
 ```bash
 python cdn-scanner.py -i input.txt -o output.txt -t 2.0 -c 500
 ```
-# See All Options
+### See All Options
 ```bash
 python scanner.py --help
 ```
 
 ---
 
-## ❤️ Made with Love for Iranian Peoples
+### ❤️ Made with Love for Iranian Peoples
 
-**For the freedom of information. For the right to access.**
+***For the freedom of information. For the right to access.***
