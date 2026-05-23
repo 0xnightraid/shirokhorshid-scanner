@@ -27,9 +27,10 @@ cd shirokhorshid-scanner
 
 # Install requirements
 ### Step 1: Open CMD/Terminal in the scanner folder
-**Windows:**
 
 ### Step 2: Install requirements
 
-```bash
 pip install -r requirements.txt
+```
+---
+
