@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 
 ## 📝 Prepare IP List
-
+```bash
 1.1.1.1                        # Single IP
 8.8.8.8                        # Another single IP
 192.168.1.0/24                 # CIDR range (254 IPs)
@@ -41,4 +41,4 @@ pip install -r requirements.txt
 10.0.0.1-254                   # Short range
 104.16.124.96                  # Cloudflare IP
 13.32.110.11                   # CloudFront IP
-
+```
