@@ -74,8 +74,4 @@ python cdn-scanner.py -i input.txt -o output.txt -t 2.0 -c 500
 python cdn-scanner.py --help
 ```
 
----
 
-### ❤️ Made with Love for Iranian Peoples
-
-***For the freedom of information. For the right to access.***
