@@ -9,7 +9,7 @@
 ---
 **Scan thousands of IPs. Find CDN nodes. No limits.**
 
-## What is shirOkhorshid?
+## What is shirOkhorshid Scanner?
 
 A lightning-fast, pure Python IP scanner built for CDN detection. No ping dependencies. No subprocess headaches. Just raw speed.
 
