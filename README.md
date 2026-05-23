@@ -4,6 +4,9 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)]()
 
+
+![Scanner Screenshot](screenshot.png)
+---
 **Scan thousands of IPs. Find CDN nodes. No limits.**
 
 ## What is shirOkhorshid?
@@ -55,7 +58,7 @@ pip install -r requirements.txt
 
 ### Option 1: One-Click (Windows)
 ```bash
-Double-click `scan.cmd`
+Double-click "scan.cmd"
 It handles everything
 ```
 ### Option 2: Command Line
