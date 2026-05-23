@@ -18,20 +18,27 @@ A lightning-fast, pure Python IP scanner built for CDN detection. No ping depend
 
 ---
 
-## 📦 Installation
+### 📦 Installation & Setup
+
+**Step 1: Open CMD/Terminal in the scanner folder**
+
+Windows:
+- Open the scanner folder
+- Type `cmd` in address bar, press Enter
+
+Or:
+- Shift + Right Click in folder
+- Select "Open PowerShell/Command Prompt here"
+
+Linux/macOS:
+- Right click in folder
+- Select "Open Terminal here"
+
+**Step 2: Install requirements**
 
 ```bash
-# Clone the repo
-git clone https://github.com/0xnightraid/shirokhorshid-scanner.git
-cd shirokhorshid-scanner
-
-# Install requirements
-## Step 1: Open CMD/Terminal in the scanner folder
-
-## Step 2: Install requirements
 pip install -r requirements.txt
 ```
-
 ## 📝 Prepare IP List
 ### Open ip_list.txt and add your IPs. Supports these formats:
 ```bash
