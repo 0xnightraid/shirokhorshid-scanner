@@ -18,12 +18,12 @@ A lightning-fast, pure Python IP scanner built for CDN detection. No ping depend
 
 ---
 
-## Quick Start
+## 📦 Installation
 
-### Windows (One-Click)
-Double-click `scan.cmd` — it auto-installs, scans, saves, and opens results.
-
-### Linux / macOS
 ```bash
-pip install aiohttp
-python scanner.py -i ip_list.txt
+# Clone the repo
+git clone https://github.com/shirOkhorshid/cdn-ip-scanner.git
+cd cdn-ip-scanner
+
+# Install requirements
+pip install -r requirements.txt
