@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 ### Option 1: One-Click (Windows)
 ```bash
-Double-click "scan.cmd"
+Double-click "scan.bat"
 It handles everything
 ```
 ### Option 2: Command Line
